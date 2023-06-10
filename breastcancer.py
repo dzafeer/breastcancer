@@ -1,4 +1,3 @@
-%%writefile breast_app.py
 import streamlit as st
 import os
 import numpy as np
